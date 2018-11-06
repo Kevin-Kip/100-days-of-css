@@ -5,4 +5,4 @@ Ummm, yes. 100 days of writing CSS code daily.
 To learn more about CSS 
 
 ## Interested?
-The guide can be found [here](https://100dayscss.com/g)
+The guide can be found [here](https://100dayscss.com/)
